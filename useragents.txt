@@ -1,0 +1,8 @@
+proxies.txt, referers.txt, useragents.txt
+ciphers.txt
+sigalgs.txt
+pathts.txt
+lang_header.txt
+accept_header.txt
+encoding_header.txt
+controle_header.txt
